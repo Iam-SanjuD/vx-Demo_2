@@ -1,8 +1,8 @@
 [repository]
-REGISTRY_NAME = "tauffer-consulting"
+REGISTRY_NAME = "vx-demo"
 
-REPOSITORY_NAME = "default_domino_pieces"
-REPOSITORY_LABEL = "Default Pieces Repository"
+REPOSITORY_NAME = "vx-Demo2"
+REPOSITORY_LABEL = "test-pieces"
 
 VERSION = "0.8.1"
 
